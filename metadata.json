@@ -1,0 +1,6 @@
+{
+  "name": "Vitalsense — Personal Health & Blood Report Tracker",
+  "description": "Minimalist blood report management, AI-assisted lab extraction with manual verification, single-biomarker trend charts, family consent management, and a dedicated physician portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
